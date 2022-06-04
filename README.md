@@ -1,5 +1,5 @@
 # Student_management_system
-Welcome to General's Student management system
+Welcome to Krishna's Student management system
 
 A Full Stack Web Application built with Node.js, Express.js, MongoDB and Bootstrap for managing all the tasks and activities of a student within an Institution.
 
